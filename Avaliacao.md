@@ -33,4 +33,3 @@ Tentem estourar o limite da sua compreensão
 * Jean: apresentou
 * Só tem conteúdo de autoria de Jean
 * Faltou conteúdo dos requisitos funcionais
-* 
